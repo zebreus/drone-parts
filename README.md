@@ -12,3 +12,7 @@ A holder for a 6s battery. Too flimsy to be useful.
 A mount and protector for a fpv camera.
 
 ![](cam_protector/cam_protector.png)
+
+## foot and anchor
+
+A friend of mine designed a anchor-inspired landing gear. They design may be a bit overkill.
